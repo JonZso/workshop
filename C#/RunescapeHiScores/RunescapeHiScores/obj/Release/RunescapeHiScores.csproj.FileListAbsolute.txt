@@ -1,9 +1,0 @@
-C:\Users\Oxygen\Documents\Visual Studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\bin\Release\RunescapeHiScores.exe.config
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\bin\Release\RunescapeHiScores.exe
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\bin\Release\RunescapeHiScores.pdb
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\obj\Release\RunescapeHiScores.Form1.resources
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\obj\Release\RunescapeHiScores.Form2.resources
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\obj\Release\RunescapeHiScores.Properties.Resources.resources
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\obj\Release\RunescapeHiScores.csproj.GenerateResource.Cache
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\obj\Release\RunescapeHiScores.exe
-C:\Users\Oxygen\documents\visual studio 2015\Projects\RunescapeHiScores\RunescapeHiScores\obj\Release\RunescapeHiScores.pdb
